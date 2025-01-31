@@ -1,4 +1,4 @@
-#Tecnicas de codificacion con sklearn
+# Tecnicas de codificacion con sklearn
 - Label Enconding
 - One Hot Encoding
 - Hashing de Características

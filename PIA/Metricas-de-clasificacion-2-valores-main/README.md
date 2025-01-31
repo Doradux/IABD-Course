@@ -1,5 +1,5 @@
 Dado el enlace https://logongas.es/doku.php?id=clase:iabd:pia:2eval:tema08.metricas_clasificacion, realiza los ejercicios siguientes:
-1.
+[1.
 2.a.
 2.b.
 2.c.
@@ -10,4 +10,4 @@ Dado el enlace https://logongas.es/doku.php?id=clase:iabd:pia:2eval:tema08.metri
 3.e.
 3.f.
 4.
-5.a.
+5.a.]

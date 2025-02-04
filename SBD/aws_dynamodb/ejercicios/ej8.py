@@ -14,7 +14,7 @@ table = dynamodb.Table('Canciones')
 
 response = table.delete_item(
     Key={
-        'cancion_id': '1'
+        'cancion_id': '2'
     },
     ConditionExpression="attribute_exists(nombre_cancion)"
 )
@@ -23,7 +23,7 @@ table = dynamodb.Table('Artistas')
 
 response = table.delete_item(
     Key={
-        'usuario_id': '1'
+        'artista_id': '2'
     },
     ConditionExpression="attribute_exists(nombre_artista)"
 )

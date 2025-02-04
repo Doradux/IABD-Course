@@ -10,14 +10,6 @@ table.create_table(
             'AttributeName': 'usuario_id',
             'AttributeType': 'S'  # Tipo String
         }
-        # {
-        #     'AttributeName': 'nombre_usuario',
-        #     'AttributeType': 'S'  # Tipo String
-        # },
-        # {
-        #     'AttributeName': 'correo',
-        #     'AttributeType': 'S'  # Tipo String
-        # }
     ]
 )
 
@@ -29,40 +21,16 @@ table.create_table(
             'AttributeName': 'artista_id',
             'AttributeType': 'S'
         }
-        # {
-        #     'AttributeName': 'nombre_artista',
-        #     'AttributeType': 'S'
-        # },
-        # {
-        #     'AttributeName': 'genero_principal',
-        #     'AttributeType': 'S'
-        # },
-        # {
-        #     'AttributeName': 'edad',
-        #     'AttributeType': 'N'
-        # }
     ]
 )
 
 table.create_table(
-    table_name="Cancion",
+    table_name="Canciones",
     partition_key="cancion_id",
     attribute_definitions=[
         {
             'AttributeName': 'cancion_id',
             'AttributeType': 'S'
         }
-        # {
-        #     'AttributeName': 'nombre_cancion',
-        #     'AttributeType': 'S'
-        # },
-        # {
-        #     'AttributeName': 'duracion',
-        #     'AttributeType': 'N'
-        # },
-        # {
-        #     'AttributeName': 'genero_principal',
-        #     'AttributeType': 'S'
-        # }
     ]
 )

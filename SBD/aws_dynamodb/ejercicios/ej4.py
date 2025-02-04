@@ -1,6 +1,7 @@
 from imports import *
 from conexion import *
 
+# 4 - Actualizar un registro de cada tabla
 
 # Actualizar usuario
 table = dynamodb.Table('Usuarios')

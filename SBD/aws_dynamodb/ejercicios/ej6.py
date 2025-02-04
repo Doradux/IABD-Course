@@ -1,6 +1,8 @@
 from imports import *
 from conexion import *
 
+# 6 - Obtener todos los registros de cada tabla
+
 tables = [dynamodb.Table('Usuarios'), dynamodb.Table('Canciones'), dynamodb.Table('Artistas')]
 
 for table in tables:

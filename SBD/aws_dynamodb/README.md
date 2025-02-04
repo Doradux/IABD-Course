@@ -21,5 +21,16 @@ Debe creaese un documento de Google Docs con capturas de los cambios realizado e
 Debe entregarse el enlace a git con el código resultante y el documento con las Capturas.
 
  ### Capturas de ejercicios reflejados en AWS
- #### Ej1
- ![ej1]()
+ #### Ej1 creacion de tabla
+ ![ej1](https://github.com/Doradux/IABD-Course/blob/main/SBD/aws_dynamodb/capturas/ej1.png?raw=true)
+ #### Ej2 creacion de registros
+ ![ej2](https://github.com/Doradux/IABD-Course/blob/main/SBD/aws_dynamodb/capturas/ej2.png?raw=true)
+ #### Ej4 actualizacion de registro
+ ![ej4](https://github.com/Doradux/IABD-Course/blob/main/SBD/aws_dynamodb/capturas/ej4.png?raw=true)
+ #### Ej5 eliminacion de registro
+ ![ej5](https://github.com/Doradux/IABD-Course/blob/main/SBD/aws_dynamodb/capturas/ej5.png?raw=true)
+ #### Ej8 eliminacion condicional de registro
+ ![ej8-1](https://github.com/Doradux/IABD-Course/blob/main/SBD/aws_dynamodb/capturas/ej8-1.png?raw=true)
+ ![ej8-2](https://github.com/Doradux/IABD-Course/blob/main/SBD/aws_dynamodb/capturas/ej8-2.png?raw=true)
+ #### Ej11 creacion de backup
+ ![ej11](https://github.com/Doradux/IABD-Course/blob/main/SBD/aws_dynamodb/capturas/ej11.png?raw=true)

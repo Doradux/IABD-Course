@@ -1,6 +1,8 @@
 from imports import *
 from conexion import *
 
+# 9 - Obtener un conjunto de datos a través de varios filtros aplicado en cada tabla
+
 table = dynamodb.Table('Usuarios')
 
 response = table.scan(

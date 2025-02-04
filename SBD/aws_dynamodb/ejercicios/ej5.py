@@ -1,6 +1,8 @@
 from imports import *
 from conexion import *
 
+# 5 - Eliminar un registro de cada tabla
+
 table = dynamodb.Table('Usuarios')
 response = table.delete_item(
   Key={

@@ -1,6 +1,8 @@
 from imports import *
 from conexion import *
 
+# 7 - Obtener una conjunto de registros de un filtrado de cada tabla
+
 table = dynamodb.Table('Usuarios')
 
 response = table.put_item(

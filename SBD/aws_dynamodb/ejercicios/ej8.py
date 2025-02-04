@@ -1,6 +1,8 @@
 from imports import *
 from conexion import *
 
+# 8 - Realizar una eliminación condicional de cada tabla
+
 table = dynamodb.Table('Usuarios')
 
 response = table.delete_item(

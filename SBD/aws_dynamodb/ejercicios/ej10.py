@@ -1,6 +1,8 @@
 from imports import *
 from conexion import *
 
+# 10 - Utilizar PartiQL statement en cada tabla
+
 dynamodb = boto3.client(
     'dynamodb',
     aws_access_key_id=aws_access_key,
